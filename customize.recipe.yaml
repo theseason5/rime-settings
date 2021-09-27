@@ -8,7 +8,7 @@ recipe:
     Customize input schema to show emoji suggestion with OpenCC
 
 install_files: >-
-  # emoji_suggestion.yaml
+  # emoji.schema.yaml
   # opencc/*.*
 
 patch_files:
