@@ -1,6 +1,8 @@
 *~
 .*~
 *.bin
+*.log
+MANIFEST-*
 /build/*
 /user.yaml
 /installation.yaml
