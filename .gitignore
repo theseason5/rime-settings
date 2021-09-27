@@ -1,7 +1,6 @@
 *~
 .*~
 *.bin
-*.userdb/
 /build/*
 /user.yaml
 /installation.yaml
